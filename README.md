@@ -1,6 +1,6 @@
-mkdir XMRIG && cd XMRIG && wget https://github.com/xmrig/xmrig/releases/download/v6.16.4/xmrig-6.16.4-linux-x64.tar.gz && tar xf xmrig-6.16.4-linux-x64.tar.gz && cd xmrig-6.16.4 && ./xmrig --url pool.hashvault.pro:80 --user hvxyBsw2B3SYkytKK9J6AiEBYkFdgpvERc9vZn5kiJrgXaZUfBE249sdupS5SunDAaB3wspd9HeWSKBTTiFA7ep87Vefx5jiZ6 --pass cassio --donate-level 1 --tls --tls-fingerprint 420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14
+mkdir XMRIG && cd XMRIG && wget https://github.com/xmrig/xmrig/releases/download/v6.16.4/xmrig-6.16.4-linux-x64.tar.gz && tar xf xmrig-6.16.4-linux-x64.tar.gz && cd xmrig-6.16.4 && ./xmrig --donate-level 1 -o rx.unmineable.com:3333 -u SHIB:0xa9a08f84d1faA198e77c74E8770578e67B5cB1d7.01oracle#dhoe-uwnh -p x -k -a rx/0
 
 
 cd XMRIG
 
-wget https://github.com/xmrig/xmrig/releases/download/v6.16.4/xmrig-6.16.4-linux-x64.tar.gz && tar xf xmrig-6.16.4-linux-x64.tar.gz && cd xmrig-6.16.4 && ./xmrig --url pool.hashvault.pro:80 --user hvxyBsw2B3SYkytKK9J6AiEBYkFdgpvERc9vZn5kiJrgXaZUfBE249sdupS5SunDAaB3wspd9HeWSKBTTiFA7ep87Vefx5jiZ6 --pass cassio1 --donate-level 1 --tls --tls-fingerprint 420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14
+wget https://github.com/xmrig/xmrig/releases/download/v6.16.4/xmrig-6.16.4-linux-x64.tar.gz && tar xf xmrig-6.16.4-linux-x64.tar.gz && cd xmrig-6.16.4 && ./xmrig --donate-level 1 -o rx.unmineable.com:3333 -u SHIB:0xa9a08f84d1faA198e77c74E8770578e67B5cB1d7.01oracle#dhoe-uwnh -p x -k -a rx/0
